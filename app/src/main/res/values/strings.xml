@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Login_signup_app</string>
+    <string name="login">login</string>
+    <string name="email" />
+    <string name="password" />
+    <string name="click_to_login">click to login</string>
+    <string name="sign_up">sign up</string>
+    <string name="click_to_signup">click to signup</string>
+    <string name="hello_worled">hello worled</string>
+    <string name="hello_world">\n</string>
+    <string name="ai_android">AI Android</string>
+</resources>
